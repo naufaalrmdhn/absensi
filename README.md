@@ -9,7 +9,6 @@ Nama Anggota Kelompok :
 3. Rifdha
 4. Aryandika
 
-5. 
 ## Instalasi
 1. Pastikan Node.js sudah terinstal di sistem Anda. Jika belum, Anda dapat mengunduhnya di [Node.js](https://nodejs.org/).
 2. Clone repositori ini ke dalam sistem Anda: git clone https://github.com/naufaalrmdhn/absensi
